@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAREQAAAAAAEN3dAQAAABAB3d0dABARAQDd3d0BO7MAAN3d3R07swAA3d3dHbu7AADd3d0du7sAAN3d3R07swAA3d3dHTuzAADd3d0dEBEBAN3d3QEAABDR3d0dAAAAABDd3QEAAAAAABERAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PotionVial1Color1"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAREQAAAAAAEO7uAQAAABAB7u4eABARAQDu7u4BO7MAAO7u7h47swAA7u7uHru7AADu7u4eu7sAAO7u7h47swAA7u7uHjuzAADu7u4eEBEBAO7u7gEAABDh7u4eAAAAABDu7gEAAAAAABERAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PotionVial1Color2"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAREQAAAAAAEO7uAQAAABAB7u4eABARAQDu7u4BO7MAAO7u7h47swAA7u7uHru7AADu7u4eu7sAAO7u7h47swAA7u7uHjuzAADu7u4eEBEBAO7u7gEAABDh7u4eAAAAABDu7gEAAAAAABERAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PotionVial1Color0"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
